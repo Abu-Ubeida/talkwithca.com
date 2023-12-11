@@ -1,0 +1,46 @@
+#row1-div1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+#row2{
+    text-align: center;
+    /* background-color: aqua; */
+    padding: 50px;
+}
+#row3-div1{
+    text-align: center;
+    background-color: coral;
+    color: white;
+}
+#row3-div1 button{
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#row4{
+    background-color: cadetblue;
+}
+#row4-div1 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row4-div1 p {
+    font-size: small;
+    color: chartreuse;
+}
+#row4-div2 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row4-div2 p {
+    font-size: small;
+    color: chartreuse;
+}
+#row4-div3 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row4-div3 p {
+    font-size: small;
+    color: chartreuse;
+}
+
+

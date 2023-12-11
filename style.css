@@ -1,0 +1,445 @@
+#full-row {
+    margin-left: 50px;
+}
+#navbar {
+    background-color: rgb(176, 166, 166);
+    margin-top: -8px;
+    margin-bottom: -6px;
+    color: white;
+}
+#navbar-li1 a:hover {
+    background-color: blue;
+    color: aliceblue;
+}
+#navbar-li2 a:hover {
+    background-color: blue;
+    color: whitesmoke;
+}
+#drop-down a:hover {
+    background-color: blue;
+    color: whitesmoke;
+}
+#drop-down1 a:hover {
+    background-color: blue;
+    color: whitesmoke;
+}
+#drop-down2 a:hover {
+    background-color: blue;
+    color: whitesmoke;
+}
+#row2-div1 {
+    margin-top: -8px;
+    background-color: rgb(246, 67, 99);
+    color: white;
+    margin-right: 89px;
+}
+/* #row2-div1 a{
+    display: ;
+} */
+#dropdown1 {
+    background-color: rgb(177, 176, 176);
+}
+#dropdown2 {
+    background-color: rgb(177, 176, 176);
+}
+#dropdown3 {
+    background-color: rgb(177, 176, 176);
+}
+#row2-div1:hover {
+    color: black;
+}
+#row3-div1 {
+    background-color: rgb(210, 38, 72);
+    color: white;
+    margin-right: 89px;
+}
+#row3-div1 h2{
+    font-size: medium;
+}
+#row3-div1:hover {
+    color: rgb(0, 0, 0);
+}
+#row4-div1 {
+    background-color: rgb(191, 33, 62);
+    color: white;
+    margin-right: 89px;
+    font-size: 30px;
+}
+#row4-div1:hover {
+    color: black;
+}
+@media screen and (max-width:600px){
+    #row3-div1{
+    display: none;
+    }
+    #row4-div1{
+        display:none;
+    }
+}
+#btn1 {
+    padding: 11px;
+    margin-bottom: 30px;
+    color: rgb(15, 12, 12);
+    border-radius: 39px;
+    border: none;
+    font-weight: bold;
+    background-color: rgb(189, 153, 153);
+}
+#btn1:hover {
+    color: rgb(234, 228, 227);
+    background-color: rgb(46, 46, 194);
+    border-radius: 5px;
+    border: none;
+}
+#row5 {
+    background-color: rgb(253, 247, 247);
+    margin-right: 89px;
+    margin-bottom: 10px;
+    margin-top: 3px;
+    font-family: serif;
+    font-style: oblique;
+    padding: 20px;
+    box-shadow: inset 0 -3em 3em rgba(0, 200, 0, 0.3),
+        0 0 0 2px white,
+        0.3em 0.3em 1em rgba(200, 0, 0, 0.6);
+}
+#row5-div1 h2{
+font-size: large;
+}
+#row6 {
+    margin-bottom: 10px;
+}
+#row6-div2 h2 {
+    font-family: sans-serif;
+    color: #1a73e8;
+    margin-left: 45px;
+}
+#row6-div2-span1 {
+    font-size: medium;
+    font-style: oblique;
+    margin-left: 70px;
+}
+.row6-div2-span {
+    font-size: smaller;
+    margin-left: 100px;
+}
+#row7 {
+    margin-bottom: 44px;
+    margin-right: 46px;
+    margin-left: 50px;
+}
+#row7-div1 {
+    background-color: white;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 20px 10px rgb(179, 173, 173);
+}
+#row7-div1 h3 {
+    padding: 0.5rem;
+    border-bottom: 3px solid #b0bec5;
+    color: #1a73e8;
+    text-align: center;
+    font-size: large;
+}
+#row7 :hover {
+    background-color: #c6d2e0;
+
+}
+#row7-div1-p1 {
+    border-bottom: 5px solid rgb(220, 18, 18);
+    text-align: center;
+}
+#row7-div1-p2 {
+    text-align: center;
+    font-size: x-small;
+}
+#row7-div1-p3 {
+    text-align: center;
+    font-size: small;
+}
+#row7-div1-buttom {
+    border-top: 3px solid #b0bec5;
+    margin-bottom: px;
+    font-size: small;
+}
+#row7-div1-btn1 {
+    background-color: rgb(224, 215, 215);
+    border-radius: 8px;
+    margin-top: 4px;
+
+}
+#row7-div1-btn2 {
+    border-radius: 8px;
+    background-color: goldenrod;
+}
+#row7-div2 {
+    border: 1px solid red;
+    background-color: white;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 20px 10px rgb(179, 173, 173);
+    text-align: center;
+}
+#row7-div2 h3 {
+    padding: 0.5rem;
+    border-bottom: 3px solid #b0bec5;
+    color: #1a73e8;
+    font-size: large;
+}
+#row7-div2-p1 {
+    border-bottom: 5px solid red;
+}
+#row7-div2-p2 {
+    font-size: x-small;
+}
+#row7-div2-span1 {
+    font-size: small;
+}
+#row7-div2-buttom {
+    border-top: 1px solid #b0bec5;
+    margin-bottom: px;
+    font-size: small;
+}
+#row7-div2-btn1 {
+    background-color: rgb(224, 215, 215);
+    border-radius: 8px;
+
+}
+#row7-div2-btn2 {
+    border-radius: 8px;
+    background-color: goldenrod;
+    margin-top: 10px;
+}
+#row7-div3 {
+    text-align: center;
+    border: 1px solid red;
+    background-color: white;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 20px 10px rgb(179, 173, 173);
+}
+#row7-div3 h3 {
+    padding: 0.5rem;
+    border-bottom: 3px solid #b0bec5;
+    color: #1a73e8;
+    font-size: large;
+}
+#row7-div3-p1 {
+    border-bottom: 5px solid red;
+}
+#row7-div3-p2 {
+    font-size: x-small;
+}
+#row7-div3-p3 {
+    font-size: small;
+}
+#row7-div3-buttom {
+    border-top: 1px solid #b0bec5;
+    font-size: small;
+}
+#row7-div3-btn1 {
+    margin-top: 5px;
+    border-radius: 8px;
+}
+#row7-div3-btn2 {
+    border-radius: 8px;
+    background-color: rgb(195, 146, 47);
+}
+#row7-div4 {
+    text-align: center;
+    border: 1px solid red;
+    background-color: white;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 20px 10px rgb(179, 173, 173);
+}
+#row7-div4 h3 {
+    padding: 0.5rem;
+    border-bottom: 3px solid #b0bec5;
+    color: #1a73e8;
+    font-size: large;
+}
+#row7-div4-p1 {
+    border-bottom: 5px solid red;
+}
+#row7-div4-p2 {
+    font-size: x-small
+}
+#row7-div4-p3 {
+    font-size: small;
+}
+#row7-div4-buttom {
+    border-top: 1px solid #b0bec5;
+    font-size: small;
+}
+#row7-div4-btn1 {
+    margin-top: 23px;
+    border-radius: 8px;
+}
+#row7-div4-btn2 {
+    border-radius: 8px;
+    background-color: rgb(195, 146, 47);
+}
+@media screen and (max-width:768px) {
+    #row7-div1 {
+        margin-bottom: 15px;
+    }
+
+    #row7-div2 {
+        margin-bottom: 15px;
+    }
+
+    #row7-div3 {
+        margin-bottom: 15px;
+    }
+
+
+}
+#row8 {
+    margin-top: 15px;
+    box-shadow: 5px 10px 20px 10px rgb(179, 173, 173);
+    margin-bottom: 20px;
+}
+#row8-div1 h4 {
+    padding: 0.5rem;
+    border-bottom: 3px solid #b0bec5;
+    color: #1a73e8;
+    font-size: 1.2em;
+    text-align: center;
+}
+#row8-div1-p1 {
+    border-bottom: 5px solid red;
+    text-align: center;
+}
+#row8-div1 p {
+    font-size: x-small;
+    text-align: center;
+}
+#row8-div2 h4 {
+    padding: 0.5rem;
+    border-bottom: 3px solid #b0bec5;
+    color: #1a73e8;
+    font-size: 1.2em;
+    text-align: center;
+}
+#row8-div2-p1 {
+    border-bottom: 5px solid red;
+    text-align: center;
+}
+#row8-div2 p {
+    font-size: x-small;
+    text-align: center;
+}
+#row9 p {
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: larger;
+    /* font-stretch: expanded; */
+    font-style: calc();
+    color: #e84e1a;
+    padding: 50px;
+    background-color: antiquewhite;
+    font-size: x-large;
+}
+#row9 {
+    text-align: center;
+    margin-bottom: 0px;
+    background-color: #e84e1a;
+}
+#row9 button {
+    border-radius: 8px;
+}
+#row10 {
+    margin-top: 30px;
+    margin-bottom: 48px;
+    box-shadow: #1a73e8;
+}
+#img1 {
+    max-width: 100%;
+    height: auto;
+    width: 150px;
+}
+@media screen and (max-width : 768px) {
+    #row10-div1 {
+        text-align: center;
+    }
+
+    #row10-div2 {
+        text-align: center;
+    }
+}
+#row11 {
+    /* background-color: whitesmoke; */
+    margin-bottom: 30px;
+    /* box-shadow: 5px 10px 20px 10px rgb(179, 173, 173); */
+}
+#row11 h5 {
+    text-align: center;
+    background: #0d0b0a;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.btn {
+    margin-left: 218px;
+}
+@media screen and (max-width : 768px) {
+    #row11 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .btn {
+        margin-left: 135px;
+    }
+}
+#row12 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#row13 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+#row13-div1 {
+    background: #1a73e8;
+}
+#row14 {
+    background-color: cadetblue;
+}
+#row14-div1 h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row14-div1 p {
+    font-size: small;
+    color: chartreuse;
+}
+#row14-div2 h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row14-div2 p {
+    font-size: small;
+    color: chartreuse;
+}
+#row14-div3 h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row14-div3 p {
+    font-size: small;
+    color: chartreuse;
+}
+@media screen and (max-width:768px) {
+    #row14 {
+        margin-left: 0px;
+    }
+}
+#row15 {
+    text-align: center;
+    background-color: #0d0b0a;
+    color: #e84e1a;
+}

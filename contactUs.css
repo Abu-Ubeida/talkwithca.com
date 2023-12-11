@@ -1,0 +1,58 @@
+#row1{
+    background-color: blue;
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
+#row1-div1 h1{
+    font-family: serif;
+    font-weight: 800;
+    font-size: larger;
+}
+#row1-div1 p{
+    font-size: small;
+}
+#row2{
+    text-align: center;
+    padding: 20px;
+    /* background-color: aquamarine; */
+}
+#row2-div1{
+    background-color: crimson;
+    border-radius: 10px;
+    color: white;
+}
+#row3{
+    padding: 20px;
+    font-size: small;
+}
+#row4{
+    background-color: cadetblue;
+    margin-left: 0px;
+}
+#row4-div1 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row4-div1 p {
+    font-size: small;
+    color: chartreuse;
+}
+#row4-div2 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row4-div2 p {
+    font-size: small;
+    color: chartreuse;
+}
+#row4-div3 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#row4-div3 p {
+    font-size: small;
+    color: chartreuse;
+}
+
+
+
+
+

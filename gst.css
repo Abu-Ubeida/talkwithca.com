@@ -1,0 +1,135 @@
+#row1-div1 {
+    text-align: center;
+    padding: 50px;
+    background-color: blue;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#row2 h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#row2-div1 p {
+    font-size: smaller;
+    color: coral;
+}
+
+#row2-div2 {
+    margin-top: 10px;
+    box-shadow:
+        inset 0 -3em 3em rgba(0, 200, 0, 0.3),
+        0 0 0 2px white,
+        0.3em 0.3em 1em rgba(200, 0, 0, 0.6);
+}
+
+#row2-div2 span {
+    font-size: small;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+#row3-div1 {
+    margin-top: 20px;
+    padding: 50px;
+    box-shadow: 7px 3px 51px -13px gainsboro;
+}
+
+#row3-div1 h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#row3-div1 span {
+    font-size: small;
+}
+
+#row4 {
+    padding: 30px;
+}
+
+#row4-div1 {
+    margin-top: 10px;
+    /* padding: 50px; */
+}
+
+#row4-div1 h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#row4-div1 p {
+    font-size: small;
+}
+
+#row4-div2 {
+    box-shadow: inset 0 -3em 3em rgba(0, 200, 0, 0.3),
+        0 0 0 2px white,
+        0.3em 0.3em 1em rgba(200, 0, 0, 0.6);
+    ;
+}
+
+#row4-div2 h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#row4-div2 span {
+    font-size: small;
+    color: red;
+}
+
+#row5-div1 h5 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#row5-div1 {
+    margin-bottom: 10px;
+    box-shadow:
+        inset 0 -3em 3em rgba(0, 200, 0, 0.3),
+        0 0 0 2px white,
+        0.3em 0.3em 1em rgba(200, 0, 0, 0.6);
+    ;
+}
+
+#row6 {
+    background-color: cadetblue;
+}
+
+#row6-div1 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#row6-div1 p {
+    font-size: small;
+    color: chartreuse;
+}
+
+#row6-div2 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#row6-div2 p {
+    font-size: small;
+    color: chartreuse;
+}
+
+#row6-div3 h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#row6-div3 p {
+    font-size: small;
+    color: chartreuse;
+}
